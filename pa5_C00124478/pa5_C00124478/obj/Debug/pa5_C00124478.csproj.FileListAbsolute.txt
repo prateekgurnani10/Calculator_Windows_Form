@@ -1,0 +1,10 @@
+C:\Users\Prateek\Desktop\VS CODE projects\pa5_C00124478\pa5_C00124478\bin\Debug\pa5_C00124478.exe.config
+C:\Users\Prateek\Desktop\VS CODE projects\pa5_C00124478\pa5_C00124478\bin\Debug\pa5_C00124478.exe
+C:\Users\Prateek\Desktop\VS CODE projects\pa5_C00124478\pa5_C00124478\bin\Debug\pa5_C00124478.pdb
+C:\Users\Prateek\Desktop\VS CODE projects\pa5_C00124478\pa5_C00124478\obj\Debug\pa5_C00124478.csprojAssemblyReference.cache
+C:\Users\Prateek\Desktop\VS CODE projects\pa5_C00124478\pa5_C00124478\obj\Debug\pa5_C00124478.Form1.resources
+C:\Users\Prateek\Desktop\VS CODE projects\pa5_C00124478\pa5_C00124478\obj\Debug\pa5_C00124478.Properties.Resources.resources
+C:\Users\Prateek\Desktop\VS CODE projects\pa5_C00124478\pa5_C00124478\obj\Debug\pa5_C00124478.csproj.GenerateResource.cache
+C:\Users\Prateek\Desktop\VS CODE projects\pa5_C00124478\pa5_C00124478\obj\Debug\pa5_C00124478.csproj.CoreCompileInputs.cache
+C:\Users\Prateek\Desktop\VS CODE projects\pa5_C00124478\pa5_C00124478\obj\Debug\pa5_C00124478.exe
+C:\Users\Prateek\Desktop\VS CODE projects\pa5_C00124478\pa5_C00124478\obj\Debug\pa5_C00124478.pdb
